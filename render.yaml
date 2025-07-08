@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: chatbot-media-host
+    env: static
+    buildCommand: ""
+    staticPublishPath: static
